@@ -1,5 +1,7 @@
 # bsquared
 
+![commit activity](https://img.shields.io/github/commit-activity/m/JessBaxter/bsquared)
+
 - [Description](#description)
 - [Goal](#goal)
 - [Development Stages](#development-stages)
