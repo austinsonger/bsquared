@@ -1,0 +1,9 @@
+/node_modules
+
+# environment
+.env
+
+# special files
+NOTES.md
+/todo
+OLD_*
