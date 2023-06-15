@@ -29,7 +29,7 @@ While **bsquared** certainly fits the role of 'Twitch chatbot', it does more tha
 | PHASE | DESCRIPTION                                                                                                                                                                     | STATUS |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | 1     | Gathering the project requirements. Research phase for the 'standard bot' component of **bsquared**, which will serve as the fallback setting if the AI route fails to pan out. | active |
-| 2     | Development and testing of the 'standard bot' component.                                                                                                                        |        |
+| 2     | Development and testing of the 'standard bot' component.                                                                                                                        | active |
 | 3     | AI research phase. There's a lot to consider and many technologies to learn, so this will take some time to ensure it's done right.                                             |        |
 | 4     | Development and testing of the 'AI' component.                                                                                                                                  |        |
 | 5     | User feedback and changes.                                                                                                                                                      |        |
